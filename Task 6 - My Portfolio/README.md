@@ -5,7 +5,7 @@ I have created my Portfolio using HTML and CSS.
 
 ## Screenshots
 
-![App Screenshot](/Bytewise-Django-Track/Task 6 - My Portfolio/preview.png)
+![App Screenshot](https://raw.githubusercontent.com/bilawal21/Bytewise-Django-Track/main/Task%206%20-%20My%20Portfolio/preview.png)
 
 ## Demo
 
